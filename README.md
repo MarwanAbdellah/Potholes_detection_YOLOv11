@@ -4,6 +4,8 @@ A YOLOv11-based object detection project for identifying **potholes** in road im
 
 ---
 > Note: Don't forget to checkout my newly made custom dataset on roboflow. Link = `Link_here_later`
+
+---
 ## 🧠 Overview
 
 This project trains and evaluates a YOLOv11 model on a custom dataset of potholes. It uses Roboflow for dataset preparation and the Ultralytics YOLOv8 (YOLOv11-compatible) pipeline for training and inference.
