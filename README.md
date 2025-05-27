@@ -3,7 +3,7 @@
 A YOLOv11-based object detection project for identifying **potholes** in road images, integrated with **Ultralytics**, **Roboflow**, and annotated datasets.
 
 ---
-
+> Note: Don't forget to checkout my newly made custom dataset on roboflow. Link = `Link_here_later`
 ## 🧠 Overview
 
 This project trains and evaluates a YOLOv11 model on a custom dataset of potholes. It uses Roboflow for dataset preparation and the Ultralytics YOLOv8 (YOLOv11-compatible) pipeline for training and inference.
@@ -42,7 +42,7 @@ potholes_detection_yolov11/
 - 📦 Dataset labeled and exported via **Roboflow** in YOLO format
 - 🧠 Custom training using **Ultralytics YOLO**
 - 📈 Real-time inference support on images, folders, and videos
-- 💾 Save and visualize predictions programmatically (no cv2 needed)
+- 💾 Save and visualize predictions programmatically
 
 ---
 
@@ -98,7 +98,7 @@ img.save("predicted.jpg")
 
 Dataset hosted via **Roboflow**:
 
-**URL:** `https://universe.roboflow.com/marwanabdellah/potholes-detection-yolov11`
+**URL:** `https://universe.roboflow.com/yolov8-uav/potholes-detect-uytky`
 
 Class annotations:
 
@@ -143,4 +143,3 @@ runs/
 **Marwan Abdellah**  
 📧 [marawan.abdellah0@gmail.com](mailto:marawan.abdellah0@gmail.com)  
 🔗 GitHub: [@MarwanAbdellah](https://github.com/MarwanAbdellah)
-```
