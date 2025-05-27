@@ -1,6 +1,3 @@
-```python
-%%markdown
-
 # 🕳️ Pothole Detection using YOLOv11
 
 This project implements a custom YOLOv11 model to detect potholes in road images. It uses Ultralytics' YOLO training and inference pipelines along with a labeled dataset for accurate object detection in real-world conditions.
@@ -77,4 +74,4 @@ model = YOLO("runs/detect/train/weights/best.pt")
 results = model("test.jpg")
 results[0].show()
 ```
-```
+
