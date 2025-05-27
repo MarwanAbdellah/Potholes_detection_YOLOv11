@@ -1,0 +1,8 @@
+env
+runs
+potholes-detect-1
+mixkit-potholes-in-a-rural-road-25208-hd-ready.mp4
+yolo*
+_pycache_
+results*
+*.pyc
