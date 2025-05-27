@@ -21,11 +21,14 @@ potholes_detection_yolov11/
 │ ├── data.yaml
 ├── runs/
 │ └── detect/
-│ └── train11/
-│ └── weights/
-│ └── best.pt
-├── inference/
-│ └── medium_inference.py
+│     └── train11/
+│         └── weights/
+│             └── best.pt
+│     └── train15/
+│         └── weights/
+│             └── best.pt
+├── medium_inference.py
+├── large_inference.py
 ├── README.md
 ├── requirements.txt
 └── .gitignore
