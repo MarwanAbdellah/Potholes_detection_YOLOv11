@@ -1,4 +1,3 @@
-```markdown
 # 🕳️ Pothole Detection with YOLOv11
 
 A YOLOv11-based object detection project for identifying **potholes** in road images, integrated with **Ultralytics**, **Roboflow**, and annotated datasets.
